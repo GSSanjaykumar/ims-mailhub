@@ -1,0 +1,7 @@
+﻿backend/mailhub/src/main/resources/application.properties
+backend/mailhub/target/
+frontend/node_modules/
+frontend/dist/
+.idea/
+*.class
+*.log
